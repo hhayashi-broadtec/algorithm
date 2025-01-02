@@ -3,36 +3,14 @@
 
 ## ソートアルゴリズム
 
-- バブルソート
-  - [PHP](php/bubble_sort.php)
-  - [Python](python/bubble_sort.py)
-  - [Ruby](ruby/bubble_sort.rb)
-  - [JavaScript](javascript/bubble_sort.js)
-- クイックソート
-  - [PHP](php/quick_sort.php)
-  - [Python](python/quick_sort.py)
-  - [Ruby](ruby/quick_sort.rb)
-  - [JavaScript](javascript/quick_sort.js)
-- マージソート
-  - [PHP](php/merge_sort.php)
-  - [Python](python/merge_sort.py)
-  - [Ruby](ruby/merge_sort.rb)
-  - [JavaScript](javascript/merge_sort.js)
-- 挿入ソート
-  - [PHP](php/insertion_sort.php)
-  - [Python](python/insertion_sort.py)
-  - [Ruby](ruby/insertion_sort.rb)
-  - [JavaScript](javascript/insertion_sort.js)
-- ヒープソート
-  - [PHP](php/heap_sort.php)
-  - [Python](python/heap_sort.py)
-  - [Ruby](ruby/heap_sort.rb)
-  - [JavaScript](javascript/heap_sort.js)
-- 選択ソート
-  - [PHP](php/selection_sort.php)
-  - [Python](python/selection_sort.py)
-  - [Ruby](ruby/selection_sort.rb)
-  - [JavaScript](javascript/selection_sort.js)
+| ソートアルゴリズム | PHP | Python | Ruby | JavaScript |
+|------------------|-----|--------|------|------------|
+| バブルソート | [PHP](php/bubble_sort.php) | [Python](python/bubble_sort.py) | [Ruby](ruby/bubble_sort.rb) | [JavaScript](javascript/bubble_sort.js) |
+| クイックソート | [PHP](php/quick_sort.php) | [Python](python/quick_sort.py) | [Ruby](ruby/quick_sort.rb) | [JavaScript](javascript/quick_sort.js) |
+| マージソート | [PHP](php/merge_sort.php) | [Python](python/merge_sort.py) | [Ruby](ruby/merge_sort.rb) | [JavaScript](javascript/merge_sort.js) |
+| 挿入ソート | [PHP](php/insertion_sort.php) | [Python](python/insertion_sort.py) | [Ruby](ruby/insertion_sort.rb) | [JavaScript](javascript/insertion_sort.js) |
+| ヒープソート | [PHP](php/heap_sort.php) | [Python](python/heap_sort.py) | [Ruby](ruby/heap_sort.rb) | [JavaScript](javascript/heap_sort.js) |
+| 選択ソート | [PHP](php/selection_sort.php) | [Python](python/selection_sort.py) | [Ruby](ruby/selection_sort.rb) | [JavaScript](javascript/selection_sort.js) |
 
 ## プログラミング言語
 
