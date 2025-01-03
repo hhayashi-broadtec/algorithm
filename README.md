@@ -20,6 +20,13 @@
 | 幅優先探索 (BFS) | [<img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="PHP" width="20" height="20"> 実装例](php/bfs.php) | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="20" height="20"> 実装例](python/bfs.py) | [<img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg" alt="Ruby" width="20" height="20"> 実装例](ruby/bfs.rb) | [<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="20" height="20"> 実装例](javascript/bfs.js) |
 | 二分探索 | [<img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="PHP" width="20" height="20"> 実装例](php/binary_search.php) | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="20" height="20"> 実装例](python/binary_search.py) | [<img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg" alt="Ruby" width="20" height="20"> 実装例](ruby/binary_search.rb) | [<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="20" height="20"> 実装例](javascript/binary_search.js) |
 
+## グラフアルゴリズム
+
+| グラフアルゴリズム | PHP | Python | Ruby | JavaScript |
+|------------------|-----|--------|------|------------|
+| ダイクストラ法 (最短経路) | [<img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="PHP" width="20" height="20"> 実装例](php/dijkstra.php) | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="20" height="20"> 実装例](python/dijkstra.py) | [<img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg" alt="Ruby" width="20" height="20"> 実装例](ruby/dijkstra.rb) | [<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="20" height="20"> 実装例](javascript/dijkstra.js) |
+| クラスカル法 (最小全域木) | [<img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="PHP" width="20" height="20"> 実装例](php/kruskal.php) | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="20" height="20"> 実装例](python/kruskal.py) | [<img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg" alt="Ruby" width="20" height="20"> 実装例](ruby/kruskal.rb) | [<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="20" height="20"> 実装例](javascript/kruskal.js) |
+
 ## プログラミング言語
 
 - PHP
